@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
