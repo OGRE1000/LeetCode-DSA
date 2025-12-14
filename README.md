@@ -16,6 +16,7 @@
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Prefix Sum
 |  |
@@ -88,4 +89,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
