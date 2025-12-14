@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [1768-merge-strings-alternately](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
