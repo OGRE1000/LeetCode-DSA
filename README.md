@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
@@ -59,6 +60,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
 |  |
@@ -69,6 +71,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
