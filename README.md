@@ -1,4 +1,6 @@
 # LeetCode-DSA
+This repository contains my Data Structures and Algorithms (DSA) solutions from LeetCode, implemented in Java.
+The goal is to strengthen problem-solving skills, improve algorithmic thinking, and maintain a consistent record of my DSA preparation.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
