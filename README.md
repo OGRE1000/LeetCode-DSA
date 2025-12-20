@@ -17,6 +17,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0229-majority-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -116,5 +117,6 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
