@@ -21,6 +21,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
+| [1470-shuffle-the-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
