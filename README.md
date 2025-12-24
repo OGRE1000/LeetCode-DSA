@@ -18,6 +18,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0238-product-of-array-except-self](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0414-third-maximum-number](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
@@ -93,6 +94,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0169-majority-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
