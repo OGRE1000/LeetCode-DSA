@@ -13,6 +13,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0053-maximum-subarray](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0229-majority-element-ii) |
@@ -42,6 +43,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0011-container-with-most-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
@@ -120,6 +122,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
 |  |
