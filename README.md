@@ -21,6 +21,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0169-majority-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0283-move-zeroes) |
