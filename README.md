@@ -6,6 +6,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
@@ -76,6 +77,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0229-majority-element-ii) |
