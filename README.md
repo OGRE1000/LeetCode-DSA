@@ -36,6 +36,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
+| [1366-rank-teams-by-votes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1366-rank-teams-by-votes) |
 | [1470-shuffle-the-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
@@ -98,6 +99,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0424-longest-repeating-character-replacement](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [1366-rank-teams-by-votes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1366-rank-teams-by-votes) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1768-merge-strings-alternately) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -115,6 +117,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0424-longest-repeating-character-replacement](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [1366-rank-teams-by-votes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1366-rank-teams-by-votes) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
 |  |
@@ -132,12 +135,14 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0350-intersection-of-two-arrays-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
+| [1366-rank-teams-by-votes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1366-rank-teams-by-votes) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0229-majority-element-ii) |
+| [1366-rank-teams-by-votes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1366-rank-teams-by-votes) |
 ## Math
 |  |
 | ------- |
