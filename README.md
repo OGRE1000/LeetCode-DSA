@@ -29,6 +29,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0304-range-sum-query-2d-immutable](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
@@ -72,10 +73,12 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -102,6 +105,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0242-valid-anagram](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
