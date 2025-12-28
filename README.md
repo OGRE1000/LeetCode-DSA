@@ -36,6 +36,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
+| [1338-reduce-array-size-to-the-half](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1366-rank-teams-by-votes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1366-rank-teams-by-votes) |
 | [1470-shuffle-the-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -117,6 +118,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0424-longest-repeating-character-replacement](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [1338-reduce-array-size-to-the-half](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1366-rank-teams-by-votes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1366-rank-teams-by-votes) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
@@ -135,6 +137,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0350-intersection-of-two-arrays-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
+| [1338-reduce-array-size-to-the-half](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1366-rank-teams-by-votes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1366-rank-teams-by-votes) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Counting
@@ -154,6 +157,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0011-container-with-most-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
+| [1338-reduce-array-size-to-the-half](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 ## Simulation
 |  |
 | ------- |
@@ -179,4 +183,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
