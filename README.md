@@ -31,6 +31,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0350-intersection-of-two-arrays-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
@@ -76,11 +77,13 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
