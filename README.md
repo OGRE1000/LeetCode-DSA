@@ -36,6 +36,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
+| [1004-max-consecutive-ones-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
 | [1366-rank-teams-by-votes](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1366-rank-teams-by-votes) |
 | [1470-shuffle-the-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1470-shuffle-the-array) |
@@ -50,6 +51,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0303-range-sum-query-immutable](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -169,6 +171,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0209-minimum-size-subarray-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +181,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0424-longest-repeating-character-replacement](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Matrix
 |  |
