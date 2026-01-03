@@ -44,6 +44,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [1480-running-sum-of-1d-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2569-handling-sum-queries-after-update](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2569-handling-sum-queries-after-update) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,4 +194,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 |  |
 | ------- |
 | [1338-reduce-array-size-to-the-half](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
+## Segment Tree
+|  |
+| ------- |
+| [2569-handling-sum-queries-after-update](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2569-handling-sum-queries-after-update) |
 <!---LeetCode Topics End-->
