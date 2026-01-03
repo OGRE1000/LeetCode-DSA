@@ -34,6 +34,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0503-next-greater-element-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -171,6 +172,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0209-minimum-size-subarray-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
