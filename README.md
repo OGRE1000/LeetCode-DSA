@@ -175,6 +175,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0209-minimum-size-subarray-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -200,4 +201,8 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 |  |
 | ------- |
 | [2569-handling-sum-queries-after-update](https://github.com/OGRE1000/LeetCode-DSA/tree/master/2569-handling-sum-queries-after-update) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
