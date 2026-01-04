@@ -1,33 +1,41 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-
-        int low = 1;
-        int high = 0;
-
-        // Find maximum pile
+        // The minimum possible speed is 1 banana per hour.
+        // The maximum useful speed is the size of the largest pile 
+        // (eating faster than the largest pile doesn't save any hours).
+        int left = 1;
+        int right = 1;
         for (int pile : piles) {
-            high = Math.max(high, pile);
+            right = Math.max(right, pile);
         }
 
-        int answer = high;
+        while (left < right) {
+            int mid = left + (right - left) / 2; // mid represents our current speed 'k'
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            long hoursNeeded = 0;
-
-            for (int pile : piles) {
-                hoursNeeded += (pile + mid - 1) / mid; // ceil division
-            }
-
-            if (hoursNeeded <= h) {
-                answer = mid;       // possible answer
-                high = mid - 1;     // try smaller speed
+            if (canFinish(piles, h, mid)) {
+                // If we can finish at speed 'mid', this might be the answer,
+                // OR there might be a slower speed that also works. 
+                // So we try smaller speeds (move right to mid).
+                right = mid;
             } else {
-                low = mid + 1;      // speed too slow
+                // If we cannot finish, 'mid' is too slow.
+                // We must increase the speed.
+                left = mid + 1;
             }
         }
 
-        return answer;
+        // When left meets right, we have found the minimum speed.
+        return left;
+    }
+
+    // Helper function to check if Koko can finish all piles within 'h' hours at speed 'k'
+    private boolean canFinish(int[] piles, int h, int k) {
+        int hoursUsed = 0;
+        for (int pile : piles) {
+            // Calculate hours needed for this pile.
+            // Math.ceil(pile / k) is equivalent to (pile + k - 1) / k using integer division
+            hoursUsed += (pile + k - 1) / k;
+        }
+        return hoursUsed <= h;
     }
 }
