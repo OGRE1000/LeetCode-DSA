@@ -40,6 +40,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1338-reduce-array-size-to-the-half) |
@@ -185,6 +186,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0350-intersection-of-two-arrays-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
