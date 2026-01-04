@@ -13,6 +13,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 | [0042-trapping-rain-water](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0119-pascals-triangle-ii) |
@@ -171,6 +172,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -192,6 +194,7 @@ The goal is to strengthen problem-solving skills, improve algorithmic thinking, 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/OGRE1000/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Heap (Priority Queue)
 |  |
